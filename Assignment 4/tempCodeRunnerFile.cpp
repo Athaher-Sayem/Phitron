@@ -1,0 +1,1 @@
+ print_outer_right(root->right);

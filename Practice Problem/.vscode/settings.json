@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "java.compile.nullAnalysis.mode": "disabled"
+}
